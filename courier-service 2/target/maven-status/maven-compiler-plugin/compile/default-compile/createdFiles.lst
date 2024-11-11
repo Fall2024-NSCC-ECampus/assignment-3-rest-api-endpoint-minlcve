@@ -1,0 +1,9 @@
+com/example/courier_service/service/CourierService.class
+com/example/courier_service/controller/CourierController.class
+com/example/courier_service/repository/CourierRepository.class
+com/example/courier_service/service/ProductService.class
+com/example/courier_service/controller/ProductController.class
+com/example/courier_service/CourierServiceApplication.class
+com/example/courier_service/model/Courier.class
+com/example/courier_service/repository/ProductRepository.class
+com/example/courier_service/model/Product.class

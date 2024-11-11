@@ -1,0 +1,9 @@
+/Users/min/Desktop/courier-service 2/src/main/java/com/example/courier_service/CourierServiceApplication.java
+/Users/min/Desktop/courier-service 2/src/main/java/com/example/courier_service/controller/CourierController.java
+/Users/min/Desktop/courier-service 2/src/main/java/com/example/courier_service/controller/ProductController.java
+/Users/min/Desktop/courier-service 2/src/main/java/com/example/courier_service/model/Courier.java
+/Users/min/Desktop/courier-service 2/src/main/java/com/example/courier_service/model/Product.java
+/Users/min/Desktop/courier-service 2/src/main/java/com/example/courier_service/repository/CourierRepository.java
+/Users/min/Desktop/courier-service 2/src/main/java/com/example/courier_service/repository/ProductRepository.java
+/Users/min/Desktop/courier-service 2/src/main/java/com/example/courier_service/service/CourierService.java
+/Users/min/Desktop/courier-service 2/src/main/java/com/example/courier_service/service/ProductService.java
